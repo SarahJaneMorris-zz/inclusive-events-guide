@@ -39,21 +39,21 @@
 *   <span>Capacity.</span><span> Be sure you know your event space capacity in advance, so know what total registration numbers should be capped at.  Usually, you’ll get between 30% and half your registrations that will actually show up for the event.</span>
 *   <span>Now’s a great time to</span> <span>secure resources</span><span>. Typically, a successful event requires a team of 5-6 (</span><span class="c11">Emcee</span><span>, “Stage Manager” to act as a speaker/sponsor resource and ensure everything is running smoothly, two folks to greet and welcome guests and keep the space clean and beer tub full, and one to two people to register guests at the and stay at the door. Send any volunteering internal resources a calendar request so they don’t forget their duties!</span>
 *   <span>If you find yourself having trouble securing the team of 5-6 needed, consider allocating some budget to hiring</span> <span class="c11">[Taskrabbits](https://www.taskrabbit.com)</span><span> to help with event tasks, especially guest check-in/registration.</span>
-*   <span>Do you want to have your event professionally recorded and edited? We’ve been working with</span> <span>[Evan Davis](http://www.evanhdavis.com)</span><span>and he’s done</span> <span>[fantastic work](https://vimeo.com/user32592197)</span><span> for us.</span>
+*   <span>Do you want to have your event professionally recorded and edited? We’ve been working with</span> <span>[Evan Davis](http://www.evanhdavis.com)</span><span> and he’s done</span> <span>[fantastic work](https://vimeo.com/user32592197)</span><span> for us.</span>
 
 ## <span>Speakers</span>
 
 *   <span>Will your event feature any speaker(s)? Do you know who they are?</span>
 *   <span>If you have a speaker, but would like more, please be mindful of featuring underrepresented speakers whenever possible. Women and people of color should comprise at least 33% of your speaker roster or panel (if 3/more people), ideally 50%.</span>
 *   <span>If you have a speaker from your company, it’s always nice to add non-company speaker(s) to open the event up to a wider audience, grow your community and add to attendee value for your event.</span>
-*   <span>A</span> <span>[great and growing resource](https://github.com/iheanyi/speakers-who-want-a-platform) </span><span>for underrepresented speakers looking to speak!</span>
+*   <span>A</span><span> [great and growing resource](https://github.com/iheanyi/speakers-who-want-a-platform) </span><span>for underrepresented speakers looking to speak!</span>
 
 ### <span class="c24">Eventbrite Page Creation</span>
 
 *   <span>Once you’ve confirmed your speakers, we recommend using</span> <span>[Eventbrite](http://eventbrite.com)</span><span> to manage RSVPs .</span>
 *   <span>Your Eventbrite page should contain the following information in something close to this order (check out our</span> <span>[past event](http://www.eventbrite.com/o/keen-io-6663825521)</span><span> pages for inspiration):</span>
 
-*   <span class="c10">Compelling event photo.</span><span> Great sources for stock images are</span> <span>[WOCinTech Chat](https://www.flickr.com/photos/wocintechchat/albums)</span><span> (please provide attribution: “Photo by</span> <span>[#WOCinTech Chat]</span><span>”) or</span> <span class="c11">[Unsplash.com](https://unsplash.com/)</span><span>.</span>
+*   <span>Compelling event photo.</span><span> Great sources for stock images are</span> <span>[WOCinTech Chat](https://www.flickr.com/photos/wocintechchat/albums)</span><span> (please provide attribution: “Photo by</span> <span>[#WOCinTech Chat]</span><span>”) or</span> <span class="c11">[Unsplash.com](https://unsplash.com/)</span><span>.</span>
 *   <span class="c10">Brief description and pitch:</span><span> what overall topic is this event about? What is it about this topic that’s interesting to attendees? Why would they want to attend? What questions will be answered?</span>
 *   <span class="c10">Speaker list:</span><span> Name, photo and short 3-4 sentence bio for each speaker</span>
 *   <span class="c10">Agenda.</span> <span>This is where you can include information about food and drink (or lack thereof). Sample agenda:</span>
@@ -68,7 +68,7 @@
 *   <span class="c18">“Focus on Allies: Diversity and Inclusion for 2016 is an event for people from many different backgrounds. As such, all attendees, speakers, sponsors and volunteers at this are required to agree with the</span> <span class="c11 c18">[Keen IO code of conduct](https://github.com/keen/community-code-of-conduct)</span><span class="c18">.”</span>
 
 *   <span>Be sure to clarify whether or not your events space is wheelchair friendly</span>
-*   <span>Consider hiring ASL interpreters to make the event open to the hearing-impaired community! We have used</span><span>[Linguabee](http://www.linguabee.com)</span><span>, and they are fantastic!</span>
+*   <span>Consider hiring ASL interpreters to make the event open to the hearing-impaired community! We have used </span><span>[Linguabee](http://www.linguabee.com)</span><span>, and they are fantastic!</span>
 *   <span>Consider adding the following suggestion to your event copy: “In the spirit of fostering diversity and inclusion in tech, consider bringing a friend with that doesn’t look like you. Men, bring a friend that’s a woman. White folks, bring a POC friend. Cis/straight folks, bring a friend from the LGBTQ community. Able-bodied folks, bring a disabled friend.”</span>
 
 *   <span>Eventbrite tips:</span>
@@ -92,7 +92,7 @@
 
 *   <span>If your company has an events calendar, be sure your event has been included.</span> <span>[Keen community calendar](http://keen.io/community)</span><span>.</span>
 *   <span>Tweet about the event. Try to get tweets coming out of your company twitter account if possible for greater reach!</span>
-*   <span>Be sure to include speaker twitter handles, and any twitter handles for companies’ they work for - great way to ensure retweets!</span>
+*   <span>Be sure to include speaker twitter handles, and any twitter handles for companies they work for - great way to ensure retweets!</span>
 *   <span>Want to schedule some tweets? Add some cool graphics? Try getting few tweets scheduled through</span> <span>[Buffer](https://buffer.com)</span><span>, and use their cool social image feature,</span> <span>[Pablo](https://pablo.buffer.com)</span><span>. Tweets with</span> <span>[images](https://twitter.com/keen_io/status/775409902143545344)</span><span> have been proven to be more engaging (more retweets, likes, etc.)</span>
 *   <span>Search for and reach out to local, thematically-relevant</span> <span>[meetup group](https://www.meetup.com)</span><span> organizers</span><span> for co-promotion. Lots of meetup groups are happy to share relevant events with their communities.</span>
 *   <span>Reach out  and invite</span> <span>[underrepresented groups in tech](https://tctechcrunch2011.files.wordpress.com/2016/03/include-diversity-directory1.pdf)</span><span>. Not only are they eager to hear about new events, expanding community to all kinds of folks will enrich it!</span>
@@ -125,7 +125,7 @@
 *   <span>No matter your budget, diverse dietary needs should be accommodated: vegan, vegetarian, gluten free.</span>
 *   <span>If you have budget, consider fine catering from</span> <span>[Bi-Rite](http://www.biritemarket.com/catering/)</span><span>, which gets excellent attendee feedback and leaves people full, healthy and happy. Apprx $1500 to feed 100 people.</span>
 *   <span>A great mid-tier budget option is</span> <span>[La Mediteranee](http://eat24hrs.com/restaurants/order2/menu.php?id%3D34862)</span><span>, feed 100 people for $900.</span>
-*   <span>If you have less of a budget, you still have options. Try</span> <span class="c11">[EZCater]http://ezcater.com)</span><span> (available in most large US cities)</span><span> for tacos or many other options.</span> <span>[Pizza](http://goathill.com/)</span><span> is fine every now and again, just be sure to order several varieties and include a gluten free pie for every 50 or so guests. You can also include salad options with pizza.</span> <span>[Empanadas](https://www.google.com/url?q=http://www.vengaempanadas.com)</span><span> also work well.</span>
+*   <span>If you have less of a budget, you still have options. Try</span> <span class="c11">[EZCater](http://ezcater.com)</span><span> (available in most large US cities)</span><span> for tacos or many other options.</span> <span>[Pizza](http://goathill.com/)</span><span> is fine every now and again, just be sure to order several varieties and include a gluten free pie for every 50 or so guests. You can also include salad options with pizza.</span> <span>[Empanadas](http://www.vengaempanadas.com)</span><span> also work well.</span>
 *   <span>Plan to offer a large selection of non-alcoholic beverages (water, juices, LaCroix, diet and regular sodas) as well as wine and beer (hard alcohol at public events can be a slippery slope and is generally not recommended in most circumstances). See below under “Day Of” for sample recommended Instacart order.</span>
 *   <span>Food vendor orders should also include plates/utensils wherever possible, make sure you specify when ordering.</span>
 *   <span>Don’t forget to remember ice!</span>
